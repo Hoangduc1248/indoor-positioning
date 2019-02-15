@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ViewConstructor">
+        <ignore path="src/com/example/vlc_project_open_campus/IndoorMapView.java" />
+    </issue>
+</lint>
